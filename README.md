@@ -1,0 +1,2 @@
+# opendataipsukapura
+Informasi publik sukapura
